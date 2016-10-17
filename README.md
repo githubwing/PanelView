@@ -1,7 +1,13 @@
 # PanelView
 android PanelView DashBoard 仪表盘 汽车仪表盘 气压仪表盘
 =======
-求star  
+# ~~已废弃~~
+本项目为初学view练手只做，内部大量错误，请勿在项目中使用！
+存在问题如下：
+1.在ondraw()方法中new 对象。
+2.canvas.save() 以及canvas.rotate()更方便。
+3.onDraw()内代码复杂。
+
 ![image](https://github.com/githubwing/PanelView/raw/master/perview.gif)
 ###How To Use
 add a CirclePercentView into your XML.
