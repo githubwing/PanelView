@@ -12,7 +12,7 @@ android PanelView DashBoard 仪表盘 汽车仪表盘 气压仪表盘
 3.onDraw()内代码复杂。
 
 ![image](https://github.com/githubwing/PanelView/raw/master/perview.gif)
-###How To Use
+### How To Use
 add a CirclePercentView into your XML.
 
 ```
